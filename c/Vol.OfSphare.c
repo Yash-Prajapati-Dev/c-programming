@@ -1,9 +1,9 @@
 #include<stdio.h>
 int main(){
     int r = 10;
-    float a = (3.14*r*r);
+    float v = (4*3.14*r*r*r/3);
 
-    printf("the area of circle : %f"a );
+    printf("the volume of sphare : %f",v );
     
 
     return 0;
