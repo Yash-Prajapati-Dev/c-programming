@@ -3,10 +3,10 @@ int main()
 {
     int x, y;
 
-    printf("enter the first number : ");
+    printf("enter the divident : ");
     scanf("%d",&x);
 
-    printf("enter the second number : ");
+    printf("enter the divisor : ");
     scanf("%d",&y);
 
     int q;
