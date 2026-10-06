@@ -18,14 +18,15 @@ int main()
             printf("akash is greatest");
         }
     }
-        if(b>c){
+        if(b>c)
+        {
             printf("mohan is greatest");
         }
-        else{
+        else
+        {
             printf("akash is greatest");
         }
-    }    
-
+    
 
     return 0;
 }
