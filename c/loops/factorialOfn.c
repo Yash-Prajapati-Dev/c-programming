@@ -9,9 +9,10 @@ int main()
 
     for( i=1;i<=n;i++){
         product = product*i;
+        printf("the factorial %d is: %d\n",i,product);
     }
 
-    printf("factorial = %d",product);
+    
 
     return 0;
 }
